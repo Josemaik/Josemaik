@@ -1,5 +1,11 @@
 
-# Hi, I'm Jose Manuel 
+<img src="assets/Banner.png" alt="Banner" style="width:100%;"/>
+
+<h1 align="center">
+  Hi, I'm Jose Manuel 
+  <img src="assets/JMLogo.gif" alt="Jose Manuel gif" width="100" style="vertical-align: middle;"/>
+</h1>
+
 ---
 ## 🧐 About me
 
