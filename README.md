@@ -52,39 +52,144 @@
   </tr>
 </table>
 
-## 🚀 Projects
+## <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExazhhcGVtY2hid2tzNHk1dHNwbHh3cXRnZGw2eGg4cWxpZWxmNGJrMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/p4NLw3I4U0idi/giphy.gif" width="38"> Featured Projects
 
-<table>
+## ☂️🌂 Lady Umbrella 
+
+<table style="width:100% border-collapse:separate; border-spacing:20px;">
   <tr>
+<td align="center">
+	<a href="https://github.com/Josemaik/uengine3D">
+  		<img src="https://github.com/Josemaik/Josemaik/blob/main/assets/LadyUmbrella_cartel.png?raw=true" style="width:300px; height:200px; object-fit:cover; border-radius:8px;"  alt="Lady Umbrella"/>
+	</a>
+	<strong><a href="https://github.com/Josemaik/uengine3D">Arena Manager - Encounter Builder Tool</a></strong>
+</td>
     <td align="center">
-      <a href="https://github.com/tuusuario/ArenaCombatAI" title="AI-driven combat system using Unreal Engine Behavior Trees and Perception System.">
-       <img src="https://github.com/Josemaik/Josemaik/blob/main/assets/LadyUmbrella_cartel.jpg?raw=true" width="300" alt="cover"/>
-      </a>
-      <br>
-      <b>Arena Combat AI</b>
-    </td>
+	<a href="https://github.com/Josemaik/uengine3D">
+  		<img src="https://github.com/Josemaik/Josemaik/blob/main/assets/LadyUmbrella_cartel.png?raw=true" style="width:300px; height:200px; object-fit:cover; border-radius:8px;"  alt="Lady Umbrella"/>
+	</a>
+	<strong><a href="https://github.com/Josemaik/uengine3D">Mafia and Agency Behaviour Tree</a></strong>
+</td>
     <td align="center">
-      <a href="https://github.com/tuusuario/ProceduralWorlds" title="Procedural open-world generation with custom ECS engine for performance optimization.">
-        <img src="https://github.com/tuusuario/ProceduralWorlds/blob/main/cover.jpg?raw=true" width="300" alt="Procedural Worlds"/>
-      </a>
-      <br>
-      <b>Procedural Worlds</b>
-    </td>
+	<a href="https://github.com/Josemaik/uengine3D">
+  		<img src="https://github.com/Josemaik/Josemaik/blob/main/assets/LadyUmbrella_cartel.png?raw=true" style="width:300px; height:200px; object-fit:cover; border-radius:8px;"  alt="Lady Umbrella"/>
+	</a>
+	<strong><a href="https://github.com/Josemaik/uengine3D">Building behaviours with Unreal Enviroment Query System</a></strong>
+	</td>
   </tr>
   <tr>
     <td align="center">
-      <a href="https://github.com/tuusuario/DesignerToolsUE" title="Custom Unreal Engine editor tools for AI encounter design and debugging.">
-        <img src="https://github.com/tuusuario/DesignerToolsUE/blob/main/cover.jpg?raw=true" width="300" alt="Designer Tools UE"/>
-      </a>
-      <br>
-      <b>Designer Tools UE</b>
-    </td>
+	<a href="https://github.com/Josemaik/uengine3D">
+  		<img src="https://github.com/Josemaik/Josemaik/blob/main/assets/LadyUmbrella_cartel.png?raw=true" style="width:300px; height:200px; object-fit:cover; border-radius:8px;"  alt="Lady Umbrella"/>
+	</a>
+	<strong><a href="https://github.com/Josemaik/uengine3D">Voice Line System</a></strong>
+	</td>
     <td align="center">
-      <a href="https://github.com/tuusuario/RTS_AI" title="AI for real-time strategy gameplay including group behavior and pathfinding.">
-        <img src="https://github.com/tuusuario/RTS_AI/blob/main/cover.jpg?raw=true" width="300" alt="RTS AI"/>
-      </a>
-      <br>
-      <b>RTS AI</b>
-    </td>
-  </tr>
+	<a href="https://github.com/Josemaik/uengine3D">
+  		<img src="https://github.com/Josemaik/Josemaik/blob/main/assets/LadyUmbrella_cartel.png?raw=true" style="width:300px; height:200px; object-fit:cover; border-radius:8px;"  alt="Lady Umbrella"/>
+	</a>
+	<strong><a href="https://github.com/Josemaik/uengine3D">Gadgets Funtionality</a></strong>
+	</tr>
 </table>
+
+## ☂️🌂 Two Wonders 
+
+<table style="width:100% border-collapse:separate; border-spacing:20px;">
+  <tr>
+ <td align="center" style="padding:10px;">
+      <a href="https://github.com/Josemaik/uengine3D">
+        <img src="https://github.com/Josemaik/Josemaik/blob/main/assets/LadyUmbrella_cartel.png?raw=true" 
+             style="width:300px; height:200px; object-fit:cover; border-radius:8px;" 
+             alt="Lady Umbrella"/>
+      </a>
+      <strong><a href="https://github.com/Josemaik/uengine3D">ECS Engine</a></strong>
+    </td>
+    <td align="center" style="padding:10px;">
+      <a href="https://github.com/Josemaik/uengine3D">
+        <img src="https://github.com/Josemaik/Josemaik/blob/main/assets/LadyUmbrella_cartel.png?raw=true" 
+             style="width:300px; height:200px; object-fit:cover; border-radius:8px;" 
+             alt="Lady Umbrella"/>
+      </a>
+      <strong><a href="https://github.com/Josemaik/uengine3D">Custom Behaviour Tree and Blackboard</a></strong>
+    </td>
+    <td align="center">
+	<a href="https://github.com/Josemaik/uengine3D">
+  		<img src="https://github.com/Josemaik/Josemaik/blob/main/assets/LadyUmbrella_cartel.png?raw=true"  style="width:300px; height:200px; object-fit:cover; border-radius:8px;"  alt="Lady Umbrella"/>
+	</a>
+	<strong><a href="https://github.com/Josemaik/uengine3D">NavMesh Builder and Pathfinding</a></strong>
+	</td>
+  </tr>
+  <tr>
+    <td align="center">
+	<a href="https://github.com/Josemaik/uengine3D">
+  		<img src="https://github.com/Josemaik/Josemaik/blob/main/assets/LadyUmbrella_cartel.png?raw=true"  style="width:300px; height:200px; object-fit:cover; border-radius:8px;"  alt="Lady Umbrella"/>
+	</a>
+	<strong><a href="https://github.com/Josemaik/uengine3D">Steering Behaviours</a></strong>
+	</td>
+    <td align="center">
+	<a href="https://github.com/Josemaik/uengine3D">
+  		<img src="https://github.com/Josemaik/Josemaik/blob/main/assets/LadyUmbrella_cartel.png?raw=true"  style="width:300px; height:200px; object-fit:cover; border-radius:8px;"  alt="Lady Umbrella"/>
+	</a>
+	<strong><a href="https://github.com/Josemaik/uengine3D">Perception System</a></strong>
+	</tr>
+</table>
+
+## 🛠️ Personal Projects 
+
+<table style="width:100% border-collapse:separate; border-spacing:20px;">
+  <tr>
+<td align="center">
+	<a href="https://github.com/Josemaik/uengine3D">
+  		<img src="https://github.com/Josemaik/Josemaik/blob/main/assets/LadyUmbrella_cartel.png?raw=true" style="width:300px; height:200px; object-fit:cover; border-radius:8px;"  alt="Lady Umbrella"/>
+	</a>
+	<strong><a href="https://github.com/Josemaik/uengine3D">ECS engine with C++ and OpenGL</a></strong>
+</td>
+</td>
+    <td align="center">
+	<a href="https://github.com/Josemaik/uengine3D">
+  		<img src="https://github.com/Josemaik/Josemaik/blob/main/assets/LadyUmbrella_cartel.png?raw=true" style="width:300px; height:200px; object-fit:cover; border-radius:8px;"  alt="Lady Umbrella"/>
+	</a>
+	<strong><a href="https://github.com/Josemaik/uengine3D">2D Engine with C++ and litegfx</a></strong>
+</td>
+    <td align="center">
+	<a href="https://github.com/Josemaik/uengine3D">
+  		<img src="https://github.com/Josemaik/Josemaik/blob/main/assets/LadyUmbrella_cartel.png?raw=true" style="width:300px; height:200px; object-fit:cover; border-radius:8px;"  alt="Lady Umbrella"/>
+	</a>
+	<strong><a href="https://github.com/Josemaik/uengine3D">Custom OPP 2D Engine with C++ and Cmake</a></strong>
+</td>
+</tr>
+    <td align="center">
+	<a href="https://github.com/Josemaik/uengine3D">
+  		<img src="https://github.com/Josemaik/Josemaik/blob/main/assets/LadyUmbrella_cartel.png?raw=true" style="width:300px; height:200px; object-fit:cover; border-radius:8px;"  alt="Lady Umbrella"/>
+	</a>
+	<strong><a href="https://github.com/Josemaik/uengine3D">Cod Zombies: FPS Prototype</a></strong>
+</td>
+	    <td align="center">
+	<a href="https://github.com/Josemaik/uengine3D">
+  		<img src="https://github.com/Josemaik/Josemaik/blob/main/assets/LadyUmbrella_cartel.png?raw=true" style="width:300px; height:200px; object-fit:cover; border-radius:8px;"  alt="Lady Umbrella"/>
+	</a>
+	<strong><a href="https://github.com/Josemaik/uengine3D">Teapathia: Serious Game</a></strong>
+</td>
+	    <td align="center">
+	<a href="https://github.com/Josemaik/uengine3D">
+  		<img src="https://github.com/Josemaik/Josemaik/blob/main/assets/LadyUmbrella_cartel.png?raw=true" style="width:300px; height:200px; object-fit:cover; border-radius:8px;"  alt="Lady Umbrella"/>
+	</a>
+	<strong><a href="https://github.com/Josemaik/uengine3D">Unexpected Mission: 3D Sci-fi Shooter Prototype</a></strong>
+</td>
+</table>
+
+
+## 📬 Contacto | Contact
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jmdevmode@gmail.com)[![Write me here!](https://img.shields.io/badge/Write%20me%20here!-green?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jmdevmode@gmail.com)
+
+[![Contact Form](https://img.shields.io/badge/Contact%20Form-Write%20me%20here!-blueviolet?style=for-the-badge&logo=googleforms&logoColor=white)](https://tu-formulario.com)
+
+If you want to know more about me or collaborate on a project, you can find me here:
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=data:image/svg+xml;base64,REEMPLAZAR_POR_TU_ICONO&logoColor=white)](https://tu-portfolio.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tuusuario)  
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@tuusuario)  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/tuusuario)  
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/tuinvite)  
+[![Itch.io](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white)](https://tuusuario.itch.io)   
