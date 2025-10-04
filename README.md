@@ -6,12 +6,13 @@
   <img src="assets/JMLogo.gif" alt="Jose Manuel gif" width="100" style="vertical-align: middle;"/>
 </h1>
 
----
 ## 🧐 About me
 
 <p>
   I'm a <strong>Software Engineer</strong> passionate about video game development, specializing in <strong>C++ and Unreal Engine</strong>.
   
+  I started my journey in game development over 3 years ago, when I began building a game engine during my third year of <strong>Multimedia Engineering</strong> at the University of Alicante. That experience sparked my passion and drove me to dive deeper into understanding how the engines behind the games I had played throughout my life really worked.
+
   I like bringing NPCs and game worlds to life through AI, combining technical precision with creative design.
 
   In my recent projects, I've focused on crafting custom <strong>AI systems</strong> — from behavior trees, blackboards, and navigation systems to AI perception frameworks — to create dynamic and engaging gameplay experiences. I also build editor tools and systems that allow designers to create engaging encounters and interactions with npcs.
