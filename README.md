@@ -72,7 +72,7 @@
   </td>
     <td align="center">
 	<a href="https://github.com/Josemaik/TwoWonders">
-  		<img src="https://github.com/Josemaik/Josemaik/blob/main/assets/Two_Wonders_Cartell.png?raw=true"  style="width:300px; height:200px; object-fit:cover; border-radius:8px;"  alt="Two Wonders"/>
+  		<img src="https://github.com/Josemaik/Josemaik/blob/main/assets/Two_Wonders_Cartel.png?raw=true"  style="width:300px; height:200px; object-fit:cover; border-radius:8px;"  alt="Two Wonders"/>
 	</a>
 	<strong><a href="https://github.com/Josemaik/TwoWonders">Two Wonders</a></strong>
 	</td>
