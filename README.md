@@ -136,13 +136,13 @@
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jmdevmode@gmail.com)[![Write me here!](https://img.shields.io/badge/Write%20me%20here!-green?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jmdevmode@gmail.com)
 
-[![Contact Form](https://img.shields.io/badge/Contact%20Form-Write%20me%20here!-blueviolet?style=for-the-badge&logo=googleforms&logoColor=white)](https://tu-formulario.com)
+[![Contact Form](https://img.shields.io/badge/Contact%20Form-Write%20me%20here!-blueviolet?style=for-the-badge&logo=googleforms&logoColor=white)](https://josemaik.vercel.app/)
 
 If you want to know more about me or collaborate on a project, you can find me here:
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=data:image/svg+xml;base64,REEMPLAZAR_POR_TU_ICONO&logoColor=white)](https://tu-portfolio.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tuusuario)  
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@tuusuario)  
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/tuusuario)  
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/tuinvite)  
-[![Itch.io](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white)](https://tuusuario.itch.io)   
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=data:image/svg+xml;base64,REEMPLAZAR_POR_TU_ICONO&logoColor=white)](https://josemaik.vercel.app/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josemanuelsorianob/)  
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCqimzGorPrCjxY2vxmTfJoQ)  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jm_devmode/)  
+[![josemasb_6#3653](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)]
+[![Itch.io](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white)](https://josemasito-6.itch.io/)   
