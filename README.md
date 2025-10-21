@@ -140,7 +140,7 @@
 
 If you want to know more about me or collaborate on a project, you can find me here:
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=data:image/svg+xml;base64,REEMPLAZAR_POR_TU_ICONO&logoColor=white)](https://josemaik.vercel.app/)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-fff?style=for-the-badge&logo=data:image/svg+xml;base64,REEMPLAZAR_POR_TU_ICON_)]()
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josemanuelsorianob/)  
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCqimzGorPrCjxY2vxmTfJoQ)  
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jm_devmode/)  
