@@ -110,23 +110,18 @@
 </td>
  </tr>
  <tr>
- <!--   <td align="center">
-	<a href="https://github.com/Josemaik/uengine3D">
-  		<img src="https://github.com/Josemaik/Josemaik/blob/main/assets/LadyUmbrella_cartel.png?raw=true" style="width:300px; height:200px; object-fit:cover; border-radius:8px;"  alt="Lady Umbrella"/>
-	</a>
-	<strong><a href="https://github.com/Josemaik/uengine3D">Cod Zombies: FPS Prototype</a></strong>
 </td>
-	    <td align="center">
-	<a href="https://github.com/Josemaik/uengine3D">
-  		<img src="https://github.com/Josemaik/Josemaik/blob/main/assets/LadyUmbrella_cartel.png?raw=true" style="width:300px; height:200px; object-fit:cover; border-radius:8px;"  alt="Lady Umbrella"/>
-	</a>
-	<strong><a href="https://github.com/Josemaik/uengine3D">Teapathia: Serious Game</a></strong>
-</td> -->
 	    <td align="center">
 	<a href="https://github.com/Josemaik/uengine3D">
   		<img src="https://github.com/Josemaik/Josemaik/blob/main/assets/UnexpectedMission.png?raw=true" style="width:300px; height:200px; object-fit:cover; border-radius:8px;"  alt="Lady Umbrella"/>
 	</a>
-	<strong><a href="https://github.com/Josemaik/SimpleShooter">Unexpected Mission: 3D Sci-fi Shooter Prototype</a></strong>
+	<strong><a href="https://github.com/Josemaik/SimpleShooter">Unexpected Mission: 3D Sci-fi Shooter Prototype - UE5</a></strong>
+</td>
+<td align="center">
+	<a href="https://github.com/Josemaik/RPGProject">
+  		<img src="https://github.com/Josemaik/Josemaik/blob/main/assets/RPG_showcase.png?raw=true" style="width:300px; height:200px; object-fit:cover; border-radius:8px;"  alt="Lady Umbrella"/>
+	</a>
+	<strong><a href="https://github.com/Josemaik/RPGProject">RPG Multiplayer Prototype - UE5</a></strong>
 </td>
 </tr>
 </table>
