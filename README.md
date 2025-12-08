@@ -103,30 +103,36 @@
 </td>
 </td>
     <td align="center">
-	<a href="https://github.com/Josemaik/uengine3D">
-  		<img src="https://github.com/Josemaik/Josemaik/blob/main/assets/LadyUmbrella_cartel.png?raw=true" style="width:300px; height:200px; object-fit:cover; border-radius:8px;"  alt="Lady Umbrella"/>
+	<a href="https://github.com/Josemaik/uengine2D">
+  		<img src="https://github.com/Josemaik/Josemaik/blob/main/assets/Cartel_custom2dengine.png?raw=true" style="width:300px; height:200px; object-fit:cover; border-radius:8px;"  alt="Lady Umbrella"/>
 	</a>
 	<strong><a href="https://github.com/Josemaik/uengine2D">2D Engine with C++ and litegfx</a></strong>
 </td>
+    <td align="center">
+	<a href="https://github.com/Josemaik/uengine3D">
+  		<img src="https://github.com/Josemaik/Josemaik/blob/main/assets/TheLastSoulsJourney.png?raw=true" style="width:300px; height:200px; object-fit:cover; border-radius:8px;"  alt="Lady Umbrella"/>
+	</a>
+	<strong><a href="https://github.com/Josemaik/FVEngine">Custom OPP 2D Engine with C++ and Cmake</a></strong>
+</td>
  </tr>
  <tr>
-	<td align="center">
-    <a href="https://github.com/Josemaik/uengine3D">
-        <img src="https://github.com/Josemaik/Josemaik/blob/main/assets/UnexpectedMission.png?raw=true" style="width:300px; height:200px; object-fit:cover; border-radius:8px;"  alt="Lady Umbrella"/>
-    </a>
-	  <strong><a href="https://github.com/Josemaik/SimpleShooter">Unexpected Mission: 3D Sci-fi Shooter Prototype</a></strong>
-  </td>
-  <td align="center">
-    <a href="https://github.com/Josemaik/uengine3D">
-        <img src="https://github.com/Josemaik/Josemaik/blob/main/assets/TheLastSoulsJourney.png?raw=true" style="width:300px; height:200px; object-fit:cover; border-radius:8px;"  alt="Lady Umbrella"/>
-    </a>
-    <strong><a href="https://github.com/Josemaik/FVEngine">Custom OPP 2D Engine with C++, SFML and Cmake</a></strong>
-  </td>
-  <td align="center">
-	<a href="https://github.com/Josemaik/KitchenChaos">
-  		<img src="https://github.com/Josemaik/Josemaik/blob/main/assets/kitchenchaos.png?raw=true" style="width:300px; height:200px; object-fit:cover; border-radius:8px;"  alt="Kitchen Chaos"/>
+ <!--   <td align="center">
+	<a href="https://github.com/Josemaik/uengine3D">
+  		<img src="https://github.com/Josemaik/Josemaik/blob/main/assets/LadyUmbrella_cartel.png?raw=true" style="width:300px; height:200px; object-fit:cover; border-radius:8px;"  alt="Lady Umbrella"/>
 	</a>
-	<strong><a href="https://github.com/Josemaik/KitchenChaos">KitchenChaos - Unity</a></strong>
+	<strong><a href="https://github.com/Josemaik/uengine3D">Cod Zombies: FPS Prototype</a></strong>
+</td>
+	    <td align="center">
+	<a href="https://github.com/Josemaik/uengine3D">
+  		<img src="https://github.com/Josemaik/Josemaik/blob/main/assets/LadyUmbrella_cartel.png?raw=true" style="width:300px; height:200px; object-fit:cover; border-radius:8px;"  alt="Lady Umbrella"/>
+	</a>
+	<strong><a href="https://github.com/Josemaik/uengine3D">Teapathia: Serious Game</a></strong>
+</td> -->
+	    <td align="center">
+	<a href="https://github.com/Josemaik/uengine3D">
+  		<img src="https://github.com/Josemaik/Josemaik/blob/main/assets/UnexpectedMission.png?raw=true" style="width:300px; height:200px; object-fit:cover; border-radius:8px;"  alt="Lady Umbrella"/>
+	</a>
+	<strong><a href="https://github.com/Josemaik/SimpleShooter">Unexpected Mission: 3D Sci-fi Shooter Prototype</a></strong>
 </td>
 </tr>
 </table>
@@ -140,7 +146,7 @@
 
 If you want to know more about me or collaborate on a project, you can find me here:
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-fff?style=for-the-badge&logo=data:image/svg+xml;base64,REEMPLAZAR_POR_TU_ICON_)]()
+[![Portfolio](https://img.shields.io/badge/Portfolio-fff?style=for-the-badge&logo=data:image/svg+xml;base64,REEMPLAZAR_POR_TU_ICON_)](https://josemaik.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josemanuelsorianob/)  
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCqimzGorPrCjxY2vxmTfJoQ)  
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jm_devmode/)  
