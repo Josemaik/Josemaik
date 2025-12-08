@@ -68,19 +68,19 @@
 	<a href="https://github.com/Josemaik/LadyUmbrella">
   		<img src="https://github.com/Josemaik/Josemaik/blob/main/assets/LadyUmbrella_cartel.png?raw=true" style="width:300px; height:200px; object-fit:cover; border-radius:8px;"  alt="Lady Umbrella"/>
 	</a>
-	<strong><a href="https://github.com/Josemaik/LadyUmbrella">Lady Umbrella</a></strong>
+	<strong><a href="https://github.com/Josemaik/LadyUmbrella">Lady Umbrella - UE5</a></strong>
   </td>
     <td align="center">
 	<a href="https://github.com/Josemaik/TwoWonders">
   		<img src="https://github.com/Josemaik/Josemaik/blob/main/assets/Two_Wonders_Cartel.png?raw=true"  style="width:300px; height:200px; object-fit:cover; border-radius:8px;"  alt="Two Wonders"/>
 	</a>
-	<strong><a href="https://github.com/Josemaik/TwoWonders">Two Wonders</a></strong>
+	<strong><a href="https://github.com/Josemaik/TwoWonders">Two Wonders - Custom Engine</a></strong>
 	</td>
 <td align="center">
 	<a href="https://github.com/Josemaik/MrOg">
   		<img src="https://github.com/Josemaik/Josemaik/blob/main/assets/Cartel_mrog_main.png?raw=true" style="width:300px; height:200px; object-fit:cover; border-radius:8px;"  alt="Lady Umbrella"/>
 	</a>
-	<strong><a href="https://github.com/Josemaik/MrOg">Mr.Og</a></strong>
+	<strong><a href="https://github.com/Josemaik/MrOg">Mr.Og - AssemblyZ80</a></strong>
 </td>
 </tr>
 </table>
