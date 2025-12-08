@@ -91,9 +91,9 @@
 <tr>
 <td align="center">
 	<a href="https://github.com/Josemaik/RPGProject">
-  		<img src="https://github.com/Josemaik/Josemaik/blob/main/assets/LadyUmbrella_cartel.png?raw=true" style="width:300px; height:200px; object-fit:cover; border-radius:8px;"  alt="RPG Project"/>
+  		<img src="https://github.com/Josemaik/Josemaik/blob/main/assets/RPG_showcase.png?raw=true" style="width:300px; height:200px; object-fit:cover; border-radius:8px;"  alt="RPG Project"/>
 	</a>
-	<strong><a href="https://github.com/Josemaik/RPGProject">RPG Multiplayer Project using Unreal GAS</a></strong>
+	<strong><a href="https://github.com/Josemaik/RPGProject">RPG Multiplayer Project UE5 - GAS</a></strong>
 </td>
 <td align="center">
 	<a href="https://github.com/Josemaik/uengine3D">
@@ -101,38 +101,32 @@
 	</a>
 	<strong><a href="https://github.com/Josemaik/uengine3D">ECS engine with C++ and OpenGL</a></strong>
 </td>
+<td align="center">
+	<a href="https://github.com/Josemaik/KitchenChaos">
+  		<img src="https://github.com/Josemaik/Josemaik/blob/main/assets/kitchenchaos.png?raw=true" style="width:300px; height:200px; object-fit:cover; border-radius:8px;"  alt="Lady Umbrella"/>
+	</a>
+	<strong><a href="https://github.com/Josemaik/KitchenChaos">Kitchen Chaos - Unity</a></strong>
+</td>
+ </tr>
+ <tr>
+	    <td align="center">
+	<a href="https://github.com/Josemaik/uengine3D">
+  		<img src="https://github.com/Josemaik/Josemaik/blob/main/assets/UnexpectedMission.png?raw=true" style="width:300px; height:200px; object-fit:cover; border-radius:8px;"  alt="Lady Umbrella"/>
+	</a>
+	<strong><a href="https://github.com/Josemaik/SimpleShooter">Unexpected Mission: 3D Sci-fi Shooter Prototype - UE5</a></strong>
+</td>
+  <td align="center">
+	<a href="https://github.com/Josemaik/uengine3D">
+  		<img src="https://github.com/Josemaik/Josemaik/blob/main/assets/TheLastSoulsJourney.png?raw=true" style="width:300px; height:200px; object-fit:cover; border-radius:8px;"  alt="Lady Umbrella"/>
+	</a>
+	<strong><a href="https://github.com/Josemaik/FVEngine">Custom OPP 2D Engine with C++ and Cmake</a></strong>
+</td>
 </td>
     <td align="center">
 	<a href="https://github.com/Josemaik/uengine2D">
   		<img src="https://github.com/Josemaik/Josemaik/blob/main/assets/Cartel_custom2dengine.png?raw=true" style="width:300px; height:200px; object-fit:cover; border-radius:8px;"  alt="Lady Umbrella"/>
 	</a>
 	<strong><a href="https://github.com/Josemaik/uengine2D">2D Engine with C++ and litegfx</a></strong>
-</td>
-    <td align="center">
-	<a href="https://github.com/Josemaik/uengine3D">
-  		<img src="https://github.com/Josemaik/Josemaik/blob/main/assets/TheLastSoulsJourney.png?raw=true" style="width:300px; height:200px; object-fit:cover; border-radius:8px;"  alt="Lady Umbrella"/>
-	</a>
-	<strong><a href="https://github.com/Josemaik/FVEngine">Custom OPP 2D Engine with C++ and Cmake</a></strong>
-</td>
- </tr>
- <tr>
- <!--   <td align="center">
-	<a href="https://github.com/Josemaik/uengine3D">
-  		<img src="https://github.com/Josemaik/Josemaik/blob/main/assets/LadyUmbrella_cartel.png?raw=true" style="width:300px; height:200px; object-fit:cover; border-radius:8px;"  alt="Lady Umbrella"/>
-	</a>
-	<strong><a href="https://github.com/Josemaik/uengine3D">Cod Zombies: FPS Prototype</a></strong>
-</td>
-	    <td align="center">
-	<a href="https://github.com/Josemaik/uengine3D">
-  		<img src="https://github.com/Josemaik/Josemaik/blob/main/assets/LadyUmbrella_cartel.png?raw=true" style="width:300px; height:200px; object-fit:cover; border-radius:8px;"  alt="Lady Umbrella"/>
-	</a>
-	<strong><a href="https://github.com/Josemaik/uengine3D">Teapathia: Serious Game</a></strong>
-</td> -->
-	    <td align="center">
-	<a href="https://github.com/Josemaik/uengine3D">
-  		<img src="https://github.com/Josemaik/Josemaik/blob/main/assets/UnexpectedMission.png?raw=true" style="width:300px; height:200px; object-fit:cover; border-radius:8px;"  alt="Lady Umbrella"/>
-	</a>
-	<strong><a href="https://github.com/Josemaik/SimpleShooter">Unexpected Mission: 3D Sci-fi Shooter Prototype</a></strong>
 </td>
 </tr>
 </table>
