@@ -91,9 +91,9 @@
 <tr>
 <td align="center">
 	<a href="https://github.com/Josemaik/RPGProject">
-  		<img src="https://github.com/Josemaik/Josemaik/blob/main/assets/RPG_showcase.png?raw=true" style="width:300px; height:200px; object-fit:cover; border-radius:8px;"  alt="RPG Project"/>
+  		<img src="https://github.com/Josemaik/Josemaik/blob/main/assets/RPG_showcase.png?raw=true" style="width:350px; height:200px; object-fit:cover; border-radius:8px;"  alt="RPG Project"/>
 	</a>
-	<strong><a href="https://github.com/Josemaik/RPGProject">The Witcher Prototype - UE5/GAS/C++</a></strong>
+	<strong><a href="https://github.com/Josemaik/RPGProject"> The Witcher Prototype - UE5/GAS/C++</a></strong>
 </td>
 <td align="center">
 	<a href="https://github.com/Josemaik/uengine3D">
